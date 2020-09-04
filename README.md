@@ -3,9 +3,9 @@ Project 0 Getting Started
 
 **University of Pennsylvania, CIS 565: GPU Programming and Architecture, Project 0**
 
-* (TODO) YOUR NAME HERE
-  * (TODO) [LinkedIn](), [personal website](), [twitter](), etc.
-* Tested on: (TODO) Windows 22, i7-2222 @ 2.22GHz 22GB, GTX 222 222MB (Moore 2222 Lab)
+## SIREESHA PUTCHA 
+  ###  [LinkedIn](www.linkedin.com/in/sireesha-putcha)     [Portfolio](https://sites.google.com/view/sireeshaputcha/home)     [Facebook](https://www.facebook.com/sireesha.putcha98/)
+* Tested on: Microsoft Windows 10 Pro, Processor	Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz, 2601 Mhz, 6 Core(s), 12 Logical Processor(s) NVIDIA GeForce RTX 2060
 
 ### (TODO: Your README)
 
